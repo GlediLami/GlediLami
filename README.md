@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Soniq, an Edge Native Audio Firewall<br>🤝 I’m looking to help with system design and software development<br>🌱 I’m studying Information Engineering Master's at TU Munich<br>
+🤝 I’m looking to help with system design and software development<br>🌱 I’m studying Information Engineering Master's at TU Munich<br>
 
 
 ## 🌐 Socials:
