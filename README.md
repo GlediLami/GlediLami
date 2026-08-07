@@ -97,19 +97,10 @@ print(Me.get_status())
 
 <div align="center">
 
-<a href="https://github.com/GlediLami/studybuddy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GlediLami&repo=studybuddy&theme=tokyonight&hide_border=true&title_color=00F7F7&icon_color=00F7F7" />
-</a>
-<a href="https://github.com/GlediLami/job-match">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GlediLami&repo=job-match&theme=tokyonight&hide_border=true&title_color=00F7F7&icon_color=00F7F7" />
-</a>
-
-<a href="https://github.com/GlediLami/tokenguard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GlediLami&repo=tokenguard&theme=tokyonight&hide_border=true&title_color=00F7F7&icon_color=00F7F7" />
-</a>
-<a href="https://github.com/GlediLami/a11yguard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GlediLami&repo=a11yguard&theme=tokyonight&hide_border=true&title_color=00F7F7&icon_color=00F7F7" />
-</a>
+| | |
+|---|---|
+| **🦉 StudyBuddy** — turn your lecture PDFs into a grounded exam-prep tutor<br>[![stars](https://img.shields.io/github/stars/GlediLami/studybuddy?style=for-the-badge&label=stars&color=00F7F7)](https://github.com/GlediLami/studybuddy) [![license](https://img.shields.io/github/license/GlediLami/studybuddy?style=for-the-badge&label=license&color=0066FF)](https://github.com/GlediLami/studybuddy) | **🛡️ TokenGuard** — stop your AI from blowing up your LLM bill<br>[![stars](https://img.shields.io/github/stars/GlediLami/tokenguard?style=for-the-badge&label=stars&color=00F7F7)](https://github.com/GlediLami/tokenguard) [![license](https://img.shields.io/github/license/GlediLami/tokenguard?style=for-the-badge&label=license&color=0066FF)](https://github.com/GlediLami/tokenguard) |
+| **♿ A11yGuard** — write accessible UI by default<br>[![stars](https://img.shields.io/github/stars/GlediLami/a11yguard?style=for-the-badge&label=stars&color=00F7F7)](https://github.com/GlediLami/a11yguard) [![license](https://img.shields.io/github/license/GlediLami/a11yguard?style=for-the-badge&label=license&color=0066FF)](https://github.com/GlediLami/a11yguard) | **💼 job-match** — CV/JD analysis platform (Spring Boot + FastAPI + React)<br>[![stars](https://img.shields.io/github/stars/GlediLami/job-match?style=for-the-badge&label=stars&color=00F7F7)](https://github.com/GlediLami/job-match) |
 
 </div>
 
@@ -119,10 +110,14 @@ print(Me.get_status())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GlediLami&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlediLami&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7F7&text_color=FFFFFF&bg_color=0D1117&langs_count=8" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GlediLami&theme=tokyonight" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GlediLami&theme=tokyonight" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GlediLami&theme=tokyonight" height="180" />
 
 <br/>
+
+<img src="https://streak-stats.demolab.com?user=GlediLami&theme=tokyonight&hide_border=true&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7&background=0D1117" height="180" />
 
 <img src="https://streak-stats.demolab.com?user=GlediLami&theme=tokyonight&hide_border=true&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7&background=0D1117" height="180" />
 
