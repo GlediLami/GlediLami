@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:0066FF&height=200&section=header&text=Gledis%20Lami&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=System%20Design%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20M.Sc.%20%40%20TUM&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F7F7&center=true&vCenter=true&width=650&height=50&lines=Building+for+containers+%26+the+cloud;Podman+Contributor+%E2%80%94+in+progress;M.Sc.+Information+Engineering+%40+TU+Munich;Go+%E2%80%A2+Java+%E2%80%A2+Python+Specialist;System+Design+%26+Distributed+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F7F7&center=true&vCenter=true&width=650&height=50&lines=Building+for+containers+%26+the+cloud;Open+Source+Enthusiast;M.Sc.+Information+Engineering+%40+TU+Munich;Go+%E2%80%A2+Java+%E2%80%A2+Python+Specialist;System+Design+%26+Distributed+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -35,7 +35,7 @@ class Gledis:
     stack     = ["React", "Angular", "Spring", "FastAPI", "Kafka", "Kubernetes"]
     
     current_mission = [
-        "🐘 Podman — getting my first OSS PRs merged",
+        "🚀 Shipping open-source tools for students & devs",
         "🏗️ System Design & Distributed Systems Mastery",
         "🎓 M.Sc. Information Engineering @ TUM",
     ]
@@ -133,43 +133,9 @@ print(Me.get_status())
 
 ## 🐍 Snake — Watch My Commits Get Eaten!
 
-> **One-time setup:** Create `.github/workflows/snake.yml` in this repo with the content below, then the snake auto-generates every 24h and shows up here.
+![snake](https://raw.githubusercontent.com/GlediLami/GlediLami/output/github-contribution-grid-snake-dark.svg)
 
-<details>
-<summary>📋 Click to copy the GitHub Actions workflow</summary>
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: GlediLami
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then replace this section with:
-`![snake](https://github.com/GlediLami/GlediLami/blob/output/github-contribution-grid-snake-dark.svg)`
-
-</details>
+*Generated daily by GitHub Actions (`.github/workflows/snake.yml`).*
 
 ---
 
