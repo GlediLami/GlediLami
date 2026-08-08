@@ -99,8 +99,8 @@ print(Me.get_status())
 
 | | |
 |---|---|
+| **🕵️ KubeTective** — Kubernetes incident investigation engine (explainable, calibrated)<br>[![stars](https://img.shields.io/github/stars/GlediLami/kubetective?style=for-the-badge&label=stars&color=00F7F7)](https://github.com/GlediLami/kubetective) [![license](https://img.shields.io/github/license/GlediLami/kubetective?style=for-the-badge&label=license&color=0066FF)](https://github.com/GlediLami/kubetective) | **💼 job-match** — CV/JD analysis platform (Spring Boot + FastAPI + React)<br>[![stars](https://img.shields.io/github/stars/GlediLami/job-match?style=for-the-badge&label=stars&color=00F7F7)](https://github.com/GlediLami/job-match) |
 | **🦉 StudyBuddy** — turn your lecture PDFs into a grounded exam-prep tutor<br>[![stars](https://img.shields.io/github/stars/GlediLami/studybuddy?style=for-the-badge&label=stars&color=00F7F7)](https://github.com/GlediLami/studybuddy) [![license](https://img.shields.io/github/license/GlediLami/studybuddy?style=for-the-badge&label=license&color=0066FF)](https://github.com/GlediLami/studybuddy) | **🛡️ TokenGuard** — stop your AI from blowing up your LLM bill<br>[![stars](https://img.shields.io/github/stars/GlediLami/tokenguard?style=for-the-badge&label=stars&color=00F7F7)](https://github.com/GlediLami/tokenguard) [![license](https://img.shields.io/github/license/GlediLami/tokenguard?style=for-the-badge&label=license&color=0066FF)](https://github.com/GlediLami/tokenguard) |
-| **♿ A11yGuard** — write accessible UI by default<br>[![stars](https://img.shields.io/github/stars/GlediLami/a11yguard?style=for-the-badge&label=stars&color=00F7F7)](https://github.com/GlediLami/a11yguard) [![license](https://img.shields.io/github/license/GlediLami/a11yguard?style=for-the-badge&label=license&color=0066FF)](https://github.com/GlediLami/a11yguard) | **💼 job-match** — CV/JD analysis platform (Spring Boot + FastAPI + React)<br>[![stars](https://img.shields.io/github/stars/GlediLami/job-match?style=for-the-badge&label=stars&color=00F7F7)](https://github.com/GlediLami/job-match) |
 
 </div>
 
@@ -116,8 +116,6 @@ print(Me.get_status())
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GlediLami&theme=tokyonight" height="180" />
 
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=GlediLami&theme=tokyonight&hide_border=true&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7&background=0D1117" height="180" />
 
 <img src="https://streak-stats.demolab.com?user=GlediLami&theme=tokyonight&hide_border=true&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7&background=0D1117" height="180" />
 
