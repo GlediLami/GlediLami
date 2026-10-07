@@ -28,19 +28,13 @@
 class Gledis:
     name    = "Gledis Lami"
     alias   = "GlediLami"
-    role    = "System Design & Software Engineering"
+    role    = "Cloud Engineer"
     edu     = "M.Sc. Information Engineering — TU Munich"
     
     languages = ["Go", "Java", "Python", "C++", "JavaScript"]
     stack     = ["React", "Angular", "Spring", "FastAPI", "Kafka", "Kubernetes"]
     
-    current_mission = [
-        "🚀 Shipping open-source tools for students & devs",
-        "🏗️ System Design & Distributed Systems Mastery",
-        "🎓 M.Sc. Information Engineering @ TUM",
-    ]
-    
-    fun_fact = "Ask me about container runtimes, WSL2 & microservices 🐳"
+    fun_fact = "Ask me about OSS, container runtimes, WSL2 & microservices 🐳"
 
     def get_status(self):
         return "Designing systems, shipping code. 🚀"
