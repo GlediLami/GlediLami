@@ -93,8 +93,7 @@ print(Me.get_status())
 
 | | |
 |---|---|
-| **🕵️ KubeTective** — Kubernetes incident investigation engine (explainable, calibrated)<br>[![stars](https://img.shields.io/github/stars/GlediLami/kubetective?style=for-the-badge&label=stars&color=00F7F7)](https://github.com/GlediLami/kubetective) [![license](https://img.shields.io/github/license/GlediLami/kubetective?style=for-the-badge&label=license&color=0066FF)](https://github.com/GlediLami/kubetective) | **💼 job-match** — CV/JD analysis platform (Spring Boot + FastAPI + React)<br>[![stars](https://img.shields.io/github/stars/GlediLami/job-match?style=for-the-badge&label=stars&color=00F7F7)](https://github.com/GlediLami/job-match) |
-| **🦉 StudyBuddy** — turn your lecture PDFs into a grounded exam-prep tutor<br>[![stars](https://img.shields.io/github/stars/GlediLami/studybuddy?style=for-the-badge&label=stars&color=00F7F7)](https://github.com/GlediLami/studybuddy) [![license](https://img.shields.io/github/license/GlediLami/studybuddy?style=for-the-badge&label=license&color=0066FF)](https://github.com/GlediLami/studybuddy) | **🛡️ TokenGuard** — stop your AI from blowing up your LLM bill<br>[![stars](https://img.shields.io/github/stars/GlediLami/tokenguard?style=for-the-badge&label=stars&color=00F7F7)](https://github.com/GlediLami/tokenguard) [![license](https://img.shields.io/github/license/GlediLami/tokenguard?style=for-the-badge&label=license&color=0066FF)](https://github.com/GlediLami/tokenguard) |
+| **🕵️ KubeTective** — Kubernetes incident investigation engine (explainable, calibrated)<br>[![stars](https://img.shields.io/github/stars/GlediLami/kubetective?style=for-the-badge&label=stars&color=00F7F7)](https://github.com/GlediLami/kubetective) [![license](https://img.shields.io/github/license/GlediLami/kubetective?style=for-the-badge&label=license&color=0066FF)](https://github.com/GlediLami/kubetective) |
 
 </div>
 
@@ -117,19 +116,10 @@ print(Me.get_status())
 
 ---
 
-
-## 🐍 Snake — Watch My Commits Get Eaten!
-
-![snake](https://raw.githubusercontent.com/GlediLami/GlediLami/output/github-contribution-grid-snake-dark.svg)
-
-*Generated daily by GitHub Actions (`.github/workflows/snake.yml`).*
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7F7&height=120&section=footer&text=Let's+Build+Something+Great+Together!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-**⭐ Star my repos if you find them useful! | Open to collaborations**
+**⭐ Star my repos if you find them useful!**
 
 </div>
