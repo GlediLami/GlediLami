@@ -18,21 +18,37 @@
 
 ## `$ whoami`
 
-```python
-class Gledis:
-    name     = "Gledis Lami"
-    work     = "Cloud Engineer @ STACKIT"
-    study    = "M.Sc. Information Engineering @ TUM"
-    based_in = "Germany"
+```go
+package main
 
-    before   = ["core banking & payment systems", "GPU computing TA @ TUM"]
-    writes   = ["Go", "Java", "Python", "C++/CUDA"]
-    learning = ["cloud infrastructure", "distributed systems"]
+import "fmt"
 
-    def get_status(self):
-        return "Probably reading Kubernetes source code."
+type Engineer struct {
+	Name     string
+	Work     string
+	Study    string
+	BasedIn  string
+	Before   []string
+	Writes   []string
+	Learning []string
+}
 
-print(Gledis().get_status())
+func (e Engineer) Status() string {
+	return "Probably reading Kubernetes source code."
+}
+
+func main() {
+	me := Engineer{
+		Name:     "Gledis Lami",
+		Work:     "Cloud Engineer @ STACKIT",
+		Study:    "M.Sc. Information Engineering @ TUM",
+		BasedIn:  "Germany",
+		Before:   []string{"core banking & payment systems", "GPU computing TA @ TUM"},
+		Writes:   []string{"Go", "Java", "Python", "C++/CUDA"},
+		Learning: []string{"cloud infrastructure", "distributed systems"},
+	}
+	fmt.Println(me.Status())
+}
 ```
 
 <br clear="right"/>
