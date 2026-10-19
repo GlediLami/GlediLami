@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:0066FF&height=200&section=header&text=Gledis%20Lami&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=System%20Design%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20M.Sc.%20%40%20TUM&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F7F7&center=true&vCenter=true&width=650&height=50&lines=Building+for+containers+%26+the+cloud;Open+Source+Enthusiast;M.Sc.+Information+Engineering+%40+TU+Munich;Go+%E2%80%A2+Java+%E2%80%A2+Python+Specialist;System+Design+%26+Distributed+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F7F7&center=true&vCenter=true&width=650&height=50&lines=M.Sc.+Information+Engineering+%40+TU+Munich;Cloud+Engineer+%40+STACKIT" alt="Typing SVG" />
 
 <br/>
 
