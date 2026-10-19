@@ -23,16 +23,6 @@ package main
 
 import "fmt"
 
-type Engineer struct {
-	Name     string
-	Work     string
-	Study    string
-	BasedIn  string
-	Before   []string
-	Writes   []string
-	Learning []string
-}
-
 func (e Engineer) Status() string {
 	return "Probably reading Kubernetes source code."
 }
