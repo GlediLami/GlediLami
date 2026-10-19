@@ -10,12 +10,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gledislami2025@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GlediLami)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=GlediLami&color=00F7F7&style=flat-square&label=PROFILE+VIEWS)
-![Education](https://img.shields.io/badge/M.Sc.-Information_Engineering-6C63FF?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-System_Design-00ADD8?style=flat-square)
-
 </div>
 
 ---
@@ -97,29 +91,3 @@ print(Me.get_status())
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GlediLami&theme=tokyonight" width="100%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GlediLami&theme=tokyonight" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GlediLami&theme=tokyonight" height="180" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=GlediLami&theme=tokyonight&hide_border=true&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7&background=0D1117" height="180" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7F7&height=120&section=footer&text=Let's+Build+Something+Great+Together!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
-
-**⭐ Star my repos if you find them useful!**
-
-</div>
