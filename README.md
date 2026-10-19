@@ -20,21 +20,19 @@
 
 ```python
 class Gledis:
-    name    = "Gledis Lami"
-    alias   = "GlediLami"
-    role    = "Cloud Engineer"
-    edu     = "M.Sc. Information Engineering — TU Munich"
-    
-    languages = ["Go", "Java", "Python", "C++", "JavaScript"]
-    stack     = ["React", "Angular", "Spring", "FastAPI", "Kafka", "Kubernetes"]
-    
-    fun_fact = "Ask me about OSS, container runtimes, WSL2 & microservices 🐳"
+    name     = "Gledis Lami"
+    work     = "Cloud Engineer @ STACKIT"
+    study    = "M.Sc. Information Engineering @ TUM"
+    based_in = "Germany"
+
+    before   = ["core banking & payment systems", "GPU computing TA @ TUM"]
+    writes   = ["Go", "Java", "Python", "C++/CUDA"]
+    learning = ["cloud infrastructure", "distributed systems"]
 
     def get_status(self):
-        return "Designing systems, shipping code. 🚀"
+        return "Probably reading Kubernetes source code."
 
-Me = Gledis()
-print(Me.get_status())
+print(Gledis().get_status())
 ```
 
 <br clear="right"/>
