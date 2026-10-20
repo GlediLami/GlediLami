@@ -1,16 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:0066FF&height=200&section=header&text=Gledis%20Lami&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=System%20Design%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20M.Sc.%20%40%20TUM&descAlignY=58&descSize=18&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F7F7&center=true&vCenter=true&width=650&height=50&lines=M.Sc.+Information+Engineering+%40+TU+Munich;Cloud+Engineer+%40+STACKIT" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gledis-lami)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gledislami2025@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GlediLami)
-
-</div>
 
 ---
 
@@ -94,4 +82,12 @@ Investigates Kubernetes incidents. It collects facts from the cluster, builds a 
 [![stars](https://img.shields.io/github/stars/GlediLami/kubetective?style=flat-square&color=00F7F7)](https://github.com/GlediLami/kubetective/stargazers)
 [![release](https://img.shields.io/github/v/release/GlediLami/kubetective?style=flat-square&color=0066FF)](https://github.com/GlediLami/kubetective/releases)
 [![license](https://img.shields.io/github/license/GlediLami/kubetective?style=flat-square&color=6C63FF)](https://github.com/GlediLami/kubetective/blob/main/LICENSE)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gledis-lami)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gledislami2025@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GlediLami)
+
+</div>
 
