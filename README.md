@@ -77,9 +77,11 @@ func main() {
 
 ### [🕵️ KubeTective](https://github.com/GlediLami/kubetective)
 
+Investigates Kubernetes incidents. It collects facts from the cluster, builds a timeline and ranks possible causes, with the evidence behind each one. The verdict comes from rules, not a language model, so the same input always gives the same result. Written in Go, runs as a `kubectl` plugin.
+
 ### [🎮 CKAQuest](https://github.com/GlediLami/ckaquest)
 
-Investigates Kubernetes incidents. It collects facts from the cluster, builds a timeline and ranks possible causes, with the evidence behind each one. The verdict comes from rules, not a language model, so the same input always gives the same result. Written in Go, runs as a `kubectl` plugin.
+A game that gets you through the CKA exam.
 
 [![stars](https://img.shields.io/github/stars/GlediLami/kubetective?style=flat-square&color=00F7F7)](https://github.com/GlediLami/kubetective/stargazers)
 [![release](https://img.shields.io/github/v/release/GlediLami/kubetective?style=flat-square&color=0066FF)](https://github.com/GlediLami/kubetective/releases)
