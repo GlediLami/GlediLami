@@ -79,13 +79,17 @@ func main() {
 
 Investigates Kubernetes incidents. It collects facts from the cluster, builds a timeline and ranks possible causes, with the evidence behind each one. The verdict comes from rules, not a language model, so the same input always gives the same result. Written in Go, runs as a `kubectl` plugin.
 
+[![stars](https://img.shields.io/github/stars/GlediLami/kubetective?style=flat-square&color=00F7F7)](https://github.com/GlediLami/kubetective/stargazers)
+[![release](https://img.shields.io/github/v/release/GlediLami/kubetective?style=flat-square&color=0066FF)](https://github.com/GlediLami/kubetective/releases)
+[![license](https://img.shields.io/github/license/GlediLami/kubetective?style=flat-square&color=6C63FF)](https://github.com/GlediLami/kubetective/blob/main/LICENSE)
+
 ### [🎮 CKAQuest](https://github.com/GlediLami/ckaquest)
 
 A game that gets you through the CKA exam.
 
-[![stars](https://img.shields.io/github/stars/GlediLami/kubetective?style=flat-square&color=00F7F7)](https://github.com/GlediLami/kubetective/stargazers)
-[![release](https://img.shields.io/github/v/release/GlediLami/kubetective?style=flat-square&color=0066FF)](https://github.com/GlediLami/kubetective/releases)
-[![license](https://img.shields.io/github/license/GlediLami/kubetective?style=flat-square&color=6C63FF)](https://github.com/GlediLami/kubetective/blob/main/LICENSE)
+[![stars](https://img.shields.io/github/stars/GlediLami/ckaquest?style=flat-square&color=00F7F7)](https://github.com/GlediLami/ckaquest/stargazers)
+
+
 
 <div align="center">
 
